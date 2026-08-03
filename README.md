@@ -15,10 +15,10 @@ First Project/
 │   └── bond.mp4
 │
 ├── html/
-│   ├── lvl-01/
-│   ├── lvl-02/
-│   ├── lvl-03/
-│   └── lvl-04/
+│   ├── module-1/
+│   ├── module-2/
+│   ├── module-3/
+│   └── module-4/
 │
 ├── images/
 │
